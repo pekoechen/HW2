@@ -1,0 +1,19 @@
+A. 讀取 Data.dat 當初輸入，程式執行結束 會輸出output.txt
+
+Data.dat 格式如下:
+	1. method type
+	2. 首項
+	3. 公比/公差/NA
+	4. 此數列長度
+	
+B. 請實作 3個函數 根據method 的type 去呼叫下列三個函數
+	int method1(int index, char type, int head, int expand, int length)
+	int method2(int index, char type, int head, int expand, int length)
+	int method3(int index, char type, int head, int expand, int length)	
+
+C. reference: 
+函 式簡介: 			http://openhome.cc/Gossip/CGossip/FunctionABC.html
+引 數傳遞、傳回值:	http://openhome.cc/Gossip/CGossip/ArgReturn.html
+格式化檔案:			http://openhome.cc/Gossip/CGossip/FormatFileIO.html
+	
+	
